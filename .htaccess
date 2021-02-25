@@ -1,0 +1,5 @@
+RewriteEngine On
+
+RewriteRule  ^produit/ajoutProduit$ src/view/produit/ajoutProduit.php
+RewriteRule  ^produit/listeProduit$ src/view/produit/listeProduit.php
+RewriteRule  ^accueil$  accueil.php
